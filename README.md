@@ -11,7 +11,7 @@ Intel Wireless board (I don't know the specific model)<br>
 ALC256 - With combo jack working perfectly<br>
 Trackpad with all commands.<br>
 <br>
-Note: Use the preinstall EFI to install and then substitute by EFI.
+Note: Use the "Preinstall EFI" to install and then substitute by "EFI".
 
 
 
